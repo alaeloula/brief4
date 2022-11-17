@@ -40,7 +40,7 @@
                         <a class="nav-link" href="admin.php">Products</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
+                        <a class="nav-link" href="contact.php">Contact</a>
                         </li>
                         
                         <li class="nav-item dropdown">
@@ -73,13 +73,14 @@
     <span>.</span>
     <section class="trending">
         <h1>Trending</h1>
-        <div class="cadre">
+        <div class="cadre"style="background: linear-gradient(179.4deg, rgb(12, 20, 69) -16.9%, rgb(71, 30, 84) 119.9%);">
             <div class="allcards">
                 <div class="card" style="width: 18rem; align-items: center;">
                     <img src="images/abhipsa-pal-ILra9AOaXOE-unsplash-removebg-preview.png" class="card-img-top" alt="..." style="width: 17rem;">
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>
@@ -91,6 +92,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>
@@ -102,6 +104,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>
@@ -115,13 +118,14 @@
     <!-- Products -->
     <section class="Products" id="Products">
         <h1>Products</h1>
-        <div class="cadre">
+        <div class="cadre" style="background: linear-gradient(179.4deg, rgb(12, 20, 69) -16.9%, rgb(71, 30, 84) 119.9%);">
             <div class="allcards">
                 <div class="card" style="width: 18rem; align-items: center;">
                     <img src="images/abhipsa-pal-ILra9AOaXOE-unsplash-removebg-preview.png" class="card-img-top" alt="..." style="width: 17rem;">
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>
@@ -133,6 +137,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>
@@ -144,6 +149,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>
@@ -157,6 +163,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>
@@ -168,6 +175,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>
@@ -179,6 +187,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>
@@ -192,6 +201,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>
@@ -203,6 +213,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>
@@ -214,6 +225,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-light">Purchase</a>
                             <a href="#" class="btn btn-outline-light">Add to cart</a>

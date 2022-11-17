@@ -41,7 +41,7 @@
                         <a class="nav-link" href="admin.php">Products</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
+                        <a class="nav-link" href="contact.php">Contact</a>
                         </li>
                         
                         <li class="nav-item dropdown">
@@ -183,6 +183,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-success">Edit</a>
                             <a href="#" class="btn btn-outline-danger">Delete</a>
@@ -194,6 +195,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-success">Edit</a>
                             <a href="#" class="btn btn-outline-danger">Delete</a>
@@ -205,41 +207,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <div class="gaping text-start" style="display: flex; justify-content: space-between;">
-                            <a href="#" class="btn btn-outline-success">Edit</a>
-                            <a href="#" class="btn btn-outline-danger">Delete</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="allcards">
-                <div class="card" style="width: 18rem; align-items: center;">
-                    <img src="images/abhipsa-pal-ILra9AOaXOE-unsplash-removebg-preview.png" class="card-img-top" alt="..." style="width: 17rem;">
-                    <div class="card-body">
-                        <h5 class="card-title">Title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <div class="gaping text-start" style="display: flex; justify-content: space-between;">
-                            <a href="#" class="btn btn-outline-success">Edit</a>
-                            <a href="#" class="btn btn-outline-danger">Delete</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="card" style="width: 18rem; align-items: center;">
-                    <img src="images/abhipsa-pal-ILra9AOaXOE-unsplash-removebg-preview.png" class="card-img-top" alt="..." style="width: 17rem;">
-                    <div class="card-body">
-                        <h5 class="card-title">Title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <div class="gaping text-start" style="display: flex; justify-content: space-between;">
-                            <a href="#" class="btn btn-outline-success">Edit</a>
-                            <a href="#" class="btn btn-outline-danger">Delete</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="card" style="width: 18rem; align-items: center;">
-                    <img src="images/abhipsa-pal-ILra9AOaXOE-unsplash-removebg-preview.png" class="card-img-top" alt="..." style="width: 17rem;">
-                    <div class="card-body">
-                        <h5 class="card-title">Title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-success">Edit</a>
                             <a href="#" class="btn btn-outline-danger">Delete</a>
@@ -253,6 +221,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-success">Edit</a>
                             <a href="#" class="btn btn-outline-danger">Delete</a>
@@ -264,6 +233,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-success">Edit</a>
                             <a href="#" class="btn btn-outline-danger">Delete</a>
@@ -275,6 +245,45 @@
                     <div class="card-body">
                         <h5 class="card-title">Title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
+                        <div class="gaping text-start" style="display: flex; justify-content: space-between;">
+                            <a href="#" class="btn btn-outline-success">Edit</a>
+                            <a href="#" class="btn btn-outline-danger">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="allcards">
+                <div class="card" style="width: 18rem; align-items: center;">
+                    <img src="images/abhipsa-pal-ILra9AOaXOE-unsplash-removebg-preview.png" class="card-img-top" alt="..." style="width: 17rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">Title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
+                        <div class="gaping text-start" style="display: flex; justify-content: space-between;">
+                            <a href="#" class="btn btn-outline-success">Edit</a>
+                            <a href="#" class="btn btn-outline-danger">Delete</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card" style="width: 18rem; align-items: center;">
+                    <img src="images/abhipsa-pal-ILra9AOaXOE-unsplash-removebg-preview.png" class="card-img-top" alt="..." style="width: 17rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">Title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
+                        <div class="gaping text-start" style="display: flex; justify-content: space-between;">
+                            <a href="#" class="btn btn-outline-success">Edit</a>
+                            <a href="#" class="btn btn-outline-danger">Delete</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card" style="width: 18rem; align-items: center;">
+                    <img src="images/abhipsa-pal-ILra9AOaXOE-unsplash-removebg-preview.png" class="card-img-top" alt="..." style="width: 17rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">Title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p> <span class="prixQu" style="margin-right: 70%; font-weight: 800;"> 100 <span style="color: orange;">$</span></span> <span style="font-weight: 800;"> x12 </span></p>
                         <div class="gaping text-start" style="display: flex; justify-content: space-between;">
                             <a href="#" class="btn btn-outline-success">Edit</a>
                             <a href="#" class="btn btn-outline-danger">Delete</a>
